@@ -2,7 +2,7 @@
 
 # Hey 👋 :smirk:
 
-I just start learning about python. 
+I just started learning about Python. 
 
 so........
 
