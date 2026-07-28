@@ -1,15 +1,10 @@
 
 
-# 안녕하세요. 👋 :smirk:
+# 안녕하세요. 👋 
 
-리액트 및 기타등등을 합니다.
 
 ---
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoekim&layout=compact&theme=graywhite)
-
-
+[![johndoekim's GitHub stats](https://github-stats-extended.vercel.app/api?username=johndoekim)](https://github.com/stats-organization/github-stats-extended)
 ---
 
 
